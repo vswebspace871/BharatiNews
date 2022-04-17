@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white" />
+
+    <item android:top="70dp">
+        <bitmap android:src="@drawable/splashtop" android:gravity="top" />
+    </item>
+
+    <item android:top="180dp">
+        <bitmap android:src="@drawable/text3" android:gravity="top" />
+    </item>
+
+    <item>
+        <bitmap android:src="@drawable/logo" android:gravity="center" />
+    </item>
+
+    <item android:bottom="255dp">
+        <bitmap android:src="@drawable/text" android:gravity="bottom" />
+    </item>
+    <item android:bottom="210dp">
+        <bitmap android:src="@drawable/text2" android:gravity="bottom" />
+    </item>
+    <item android:bottom="80dp">
+        <bitmap android:src="@drawable/splashbottom" android:gravity="bottom" />
+    </item>
+
+</layer-list>
