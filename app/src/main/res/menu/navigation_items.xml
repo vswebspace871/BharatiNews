@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/mukhykhabre"
+        android:title="@string/mukhya"
+        android:icon="@drawable/live"/>
+    <item android:id="@+id/desh"
+        android:title="@string/desh"
+        android:icon="@drawable/india"
+        />
+    <item android:id="@+id/khel"
+        android:title="@string/khel"
+        android:icon="@drawable/cup"/>
+    <item android:id="@+id/dharm"
+        android:title="@string/dharm"
+        android:icon="@drawable/om"/>
+    <item android:id="@+id/dilchasp"
+        android:title="@string/dilchasp"
+        android:icon="@drawable/popcorn"/>
+    <item android:id="@+id/swasthay"
+        android:title="@string/swasthay"
+        android:icon="@drawable/yoga"/>
+    <item android:id="@+id/paryatan"
+        android:title="@string/paryatan"
+        android:icon="@drawable/world"/>
+    <item android:id="@+id/itihas"
+        android:title="@string/itihas"
+        android:icon="@drawable/hourglass"/>
+    <item android:id="@+id/gadget"
+        android:title="@string/gadget"
+        android:icon="@drawable/physics"/>
+    <item android:id="@+id/auto"
+        android:title="@string/auto"
+        android:icon="@drawable/auto"/>
+    <item android:id="@+id/karobar"
+        android:title="@string/karobar"
+        android:icon="@drawable/pricetag"/>
+    <item android:id="@+id/sheherorrajya"
+        android:title="@string/sheherorrajya"
+        android:icon="@drawable/city"/>
+    <group android:id="@+id/submenu">
+        <item android:id="@+id/settings"
+            android:title="@string/settings"
+            android:icon="@drawable/ic_baseline_settings_24"/>
+        <item android:id="@+id/feedback"
+            android:title="@string/feedback"
+            android:icon="@drawable/feedback"/>
+    </group>
+</menu>
