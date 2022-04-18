@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Bharati News</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="OpenDrawer">Open Navigation Drawer</string>
+    <string name="CloseDrawer">Close Navigation Drawer</string>
+    <string name="mukhya">मुख्य खबरें</string>
+    <string name="desh">देशं</string>
+    <string name="khel">खेल</string>
+    <string name="dharm">धर्म</string>
+    <string name="dilchasp">दिलचस्प</string>
+    <string name="swasthay">स्वास्थय</string>
+    <string name="paryatan">पर्यटन</string>
+    <string name="itihas">इतिहासं</string>
+    <string name="gadget">गैजेट</string>
+    <string name="auto">ऑटो</string>
+    <string name="karobar">कारोबार</string>
+    <string name="sheherorrajya">शहर और राज्य</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="feedback">फीडबैक</string>
+    <string name="logo">logo</string>
 </resources>
