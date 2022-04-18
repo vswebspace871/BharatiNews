@@ -10,8 +10,8 @@ import android.os.Bundle;
 import com.google.android.material.navigation.NavigationView;
 
 public class MainActivity extends AppCompatActivity {
-    //    constraint layout ki jagah drawer layout use krna hai
-//toolbar ya appbar banaen ke liye layout folder me xml file banegi
+    //constraint layout ki jagah drawer layout use krna hai
+    //toolbar ya appbar banaen ke liye layout folder me xml file banegi
     DrawerLayout drawerLayout;
     NavigationView navigationView;
     Toolbar toolbar;
