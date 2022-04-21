@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--app:showAsAction="always" is code se three dot remove hokr uski jagah icon aa jayega-->
+    <item android:title="@string/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:id="@+id/searchappbar"
+        app:showAsAction="always"/>
+    <item android:title="@string/feed"
+        android:icon="@drawable/ic_baseline_rss_feed_24"
+        android:id="@+id/feedappbar"
+        app:showAsAction="always"/>
+    <item android:title="@string/star"
+        android:icon="@drawable/ic_baseline_star_outline_24"
+        app:iconTint="@color/white"
+        android:id="@+id/starappbar"
+        app:showAsAction="always"/>
+    <item android:title="@string/setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/setting"
+        app:showAsAction="always"/>
+    <item android:title="@string/notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:id="@+id/notification"
+        app:showAsAction="always"/>
+
+</menu>
