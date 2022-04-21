@@ -22,4 +22,13 @@
         <item name="android:windowFullscreen">true</item>
 
     </style>
+
+    <style name="NotificationTheme" parent="Theme.AppCompat.Light.NoActionBar">
+<!--        <item name="android:windowBackground">@drawable/background_splashscreen</item>-->
+<!--                <item name="windowActionBar">false</item>-->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/statusbarcolor</item>
+<!--                <item name="windowNoTitle">false</item>-->
+<!--        <item name="android:windowFullscreen">true</item>-->
+
+    </style>
 </resources>

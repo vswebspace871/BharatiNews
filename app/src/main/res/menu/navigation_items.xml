@@ -40,7 +40,8 @@
     <group android:id="@+id/submenu">
         <item android:id="@+id/settings"
             android:title="@string/settings"
-            android:icon="@drawable/ic_baseline_settings_24"/>
+            android:icon="@drawable/settings"
+            />
         <item android:id="@+id/feedback"
             android:title="@string/feedback"
             android:icon="@drawable/feedback"/>

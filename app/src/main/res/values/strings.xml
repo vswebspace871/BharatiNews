@@ -18,4 +18,14 @@
     <string name="settings">सेटिंग्स</string>
     <string name="feedback">फीडबैक</string>
     <string name="logo">logo</string>
+    <string name="notifcenter">नोटिफिकेशन सेंटर</string>
+    <string name="bookmark">बुकमार्क सेंटर</string>
+    <string name="bookmarktext">आपकी बुकमार्क पोस्ट आपको यहाँ दिखेंगी। बुकमार्क देखने के लिए कृपया लॉग इन करें। </string>
+
+    <string name="notiftext">आपके कमैंट्स पर आने वाले रिप्लाई के नोटिफिकेशन्स आपको यहाँ दिखेंगे।  नोटिफिकेशन्स देखने के लिए कृपया लॉग इन करे। </string>
+    <string name="search">Search</string>
+    <string name="feed">Feed</string>
+    <string name="star">Star</string>
+    <string name="setting">setting</string>
+    <string name="notification">notification</string>
 </resources>
