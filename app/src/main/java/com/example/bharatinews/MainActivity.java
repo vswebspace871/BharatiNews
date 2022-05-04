@@ -14,6 +14,7 @@ import android.view.MenuItem;
 
 
 import com.example.bharatinews.Activities.BookmarkActivity;
+import com.example.bharatinews.Activities.FeedActivity;
 import com.example.bharatinews.Activities.NotificationActivity;
 import com.example.bharatinews.Activities.SettingsActivity;
 import com.google.android.material.navigation.NavigationView;
@@ -75,6 +76,9 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }else if (item.getItemId() == R.id.starappbar){
             Intent intent = new Intent(MainActivity.this, BookmarkActivity.class);
+            startActivity(intent);
+        }else if (item.getItemId() == R.id.feedappbar){
+            Intent intent = new Intent(MainActivity.this, FeedActivity.class);
             startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
