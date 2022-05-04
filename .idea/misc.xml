@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/background_splashscreen.xml" value="0.1255" />
+        <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/btn_bg_red.xml" value="0.1085" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/button_bg.xml" value="0.1" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.115" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/ic_baseline_rss_feed_24.xml" value="0.115" />
@@ -13,11 +14,15 @@
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/india.xml" value="0.124" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/drawable/text.xml" value="0.1355" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/activity_bookmark.xml" value="0.1796875" />
+        <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/activity_feed.xml" value="0.22" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/activity_main2.xml" value="0.1796875" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/activity_notification.xml" value="0.22" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/activity_settings.xml" value="0.1796875" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/app_bar_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/feed_layout_one.xml" value="0.22" />
+        <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/feed_layout_three.xml" value="0.1796875" />
+        <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/feed_layout_two.xml" value="0.22" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/header_lay.xml" value="0.1796875" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/settings_sample.xml" value="0.1796875" />
         <entry key="..\:/Users/abhinav/AndroidStudioProjects/BharatiNews/app/src/main/res/layout/settings_sample_layout.xml" value="0.22" />
