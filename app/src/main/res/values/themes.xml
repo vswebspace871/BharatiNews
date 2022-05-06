@@ -31,4 +31,15 @@
 <!--        <item name="android:windowFullscreen">true</item>-->
 
     </style>
+
+    <style name="MyTabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/MyTabTextAppearence</item>
+    </style>
+
+    <style name="MyTabTextAppearence" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+
 </resources>

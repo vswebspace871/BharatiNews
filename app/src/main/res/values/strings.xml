@@ -32,4 +32,18 @@
     <string name="icon">icon</string>
     <string name="padhna">पढ़ना शुरू करें >></string>
     <string name="vishay">विषय</string>
+    <string name="apkeliye">आपके लिए</string>
+    <string name="lokpriy">लोकप्रिय</string>
+    <string name="sthaniy">स्थानीय खबरें</string>
+    <string name="video">वीडियो</string>
+    <string name="badi">बड़ी खबर</string>
+    <string name="modi">मोदी 2.0</string>
+    <string name="duniya">दुनिया</string>
+    <string name="daily">डेली शेयर</string>
+    <string name="manoranjan">मनोरंजन</string>
+    <string name="naukri">नौकरी</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="plus_sign">Plus Sign</string>
 </resources>
